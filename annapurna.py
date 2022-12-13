@@ -24,6 +24,6 @@ try:
             })
 
 except:
-    print("Error occured")
-
+    pass
+    
 print(info)
